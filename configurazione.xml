@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DatiConfigurazioneXML coloreBackground="#EFF7FF" numeroRigheTabella="5" font="Arial"
+                       ipLog="127.0.0.1" portaLog="6979" ipDataBase="localhost" portaDatabase="3306">
+    <dimensioneFont>15</dimensioneFont>
+    <ipClient>127.0.0.1</ipClient>
+    <nomeUtenteDatabase>root</nomeUtenteDatabase>
+    <passwordDatabase></passwordDatabase>
+    <altezzaFinestra>1050</altezzaFinestra>
+    <larghezzaFinestra>1200</larghezzaFinestra>
+</DatiConfigurazioneXML>
